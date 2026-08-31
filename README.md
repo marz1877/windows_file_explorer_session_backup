@@ -4,7 +4,7 @@ Tiered of FileExplorer.exe crashing and losing you session ?
 
 Use the backup script with Windows' inbuilt `Task-scheduler`
 
-Maybe PowerToys will integrate it.
+Maybe [PowerToys](https://github.com/microsoft/powertoys) will integrate it.
 
 # Install
 
@@ -13,5 +13,10 @@ Maybe PowerToys will integrate it.
 
 # Requirements
 
-- Powershell 7
+- [Powershell 7](https://github.com/powershell/powershell/releases)
 - Windows 10+
+
+---
+
+@microsoft what do you think ?
+https://github.com/microsoft/
