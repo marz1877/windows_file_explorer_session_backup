@@ -1,10 +1,8 @@
 # Windows File Explorer Session Backup
 
-Tiered of FileExplorer.exe crashing and losing you session ?
+**Tiered of FileExplorer.exe crashing and losing you session ?**
 
 Use the backup script with Windows' inbuilt `Task-scheduler`
-
-Maybe [PowerToys](https://github.com/microsoft/powertoys) will integrate it.
 
 # Install
 
@@ -20,3 +18,10 @@ Maybe [PowerToys](https://github.com/microsoft/powertoys) will integrate it.
 
 @microsoft what do you think ?
 https://github.com/microsoft/
+Maybe [PowerToys](https://github.com/microsoft/powertoys) can integrate it.
+
+---
+
+License
+
+Source Available
